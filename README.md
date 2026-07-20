@@ -1,6 +1,9 @@
 # 📄 Analisador de Currículos com Python + IA
-
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 Um sistema inteligente para extrair e analisar informações de currículos em PDF usando Python.
+
+---
 
 ## 🚀 Funcionalidades
 
@@ -10,12 +13,16 @@ Um sistema inteligente para extrair e analisar informações de currículos em P
 - ✅ Classifica seções do currículo (formação, experiência, cursos)
 - ✅ Gera resumo estruturado em JSON
 
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **Python 3.8+** - Linguagem principal
 - **PyPDF2** - Leitura de PDFs
 - **pdfplumber** - Extração precisa de texto
 - **Expressões Regulares (regex)** - Extração de informações
+
+---
 
 ## 📦 Instalação e Execução
 
